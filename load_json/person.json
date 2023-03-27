@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bikram Koley",
+    "age": "21",
+    "height": "170",
+    "gender": "male",
+    "hair color": "brown"
+  },
+  {
+    "name": "Ayanava Naskar",
+    "age": "21",
+    "height": "185",
+    "gender": "male",
+    "hair color": "black"
+  },
+  {
+    "name": "Bunny Ray",
+    "age": "22",
+    "height": "170",
+    "gender": "male",
+    "hair color": "brown"
+  },
+  {
+    "name": "Anurag Singh",
+    "age": "21",
+    "height": "183",
+    "gender": "male",
+    "hair color": "brown"
+  }
+]
